@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/stats-base-dists-geometric-mgf",
+  "version": "0.0.0",
+  "description": "Geometric distribution moment-generating function (MGF).",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dists-geometric-mgf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "distribution",
+    "dist",
+    "mgf",
+    "generating functions",
+    "moments",
+    "memoryless",
+    "life-time",
+    "discrete",
+    "geometric",
+    "univariate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
