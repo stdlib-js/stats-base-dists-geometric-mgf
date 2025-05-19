@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-05-19)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`c15d420`](https://github.com/stdlib-js/stdlib/commit/c15d420088984080d6fb3b14d791dcee61e0c673) - **chore:** address commit comments [(#5261)](https://github.com/stdlib-js/stdlib/pull/5261) _(by Harsh)_
 -   [`ba1dd19`](https://github.com/stdlib-js/stdlib/commit/ba1dd197d12e30a10eac417f13833cfc48dbac5d) - **feat:** add C implementation for `stats/base/dists/geometric/mgf` [(#4226)](https://github.com/stdlib-js/stdlib/pull/4226) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`bce4dac`](https://github.com/stdlib-js/stdlib/commit/bce4dac63618cd50985d7875d89933c116cd185d) - **bench:** refactor random number generation in `stats/base/dists/geometric` [(#4931)](https://github.com/stdlib-js/stdlib/pull/4931) _(by Karan Anand, stdlib-bot)_
