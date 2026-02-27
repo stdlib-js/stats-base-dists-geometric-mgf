@@ -177,10 +177,6 @@ logEachMap( 't: %0.4f, p: %0.4f, M_X(t;p): %0.4f', t, p, mgf );
 
 <!-- /.examples -->
 
-<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
-
-<section class="references">
-
 <!-- C interface documentation. -->
 
 * * *
@@ -277,6 +273,10 @@ int main( void ) {
 </section>
 
 <!-- /.c -->
+
+<!-- Section to include cited references. If references are included, add a horizontal rule *before* the section. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="references">
 
 </section>
 
