@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-16)
+## Unreleased (2026-03-22)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#10978](https://github.com/stdlib-js/stdlib/issues/10978)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`4f32811`](https://github.com/stdlib-js/stdlib/commit/4f3281135aa10fd6a204e9f7d1776e16615bafe1) - **chore:** address commit comments for commit `bfbe62b` [(#10998)](https://github.com/stdlib-js/stdlib/pull/10998) _(by Blessed Oigbochie)_
 -   [`bfbe62b`](https://github.com/stdlib-js/stdlib/commit/bfbe62b4e300e4019c4601f755b0bc8565f184dc) - **test:** add tests to `stats/base/dists/geometric/mgf` [(#10483)](https://github.com/stdlib-js/stdlib/pull/10483) _(by Vishal..)_
 -   [`f886d31`](https://github.com/stdlib-js/stdlib/commit/f886d3153a4fd2e2270db0475ba4a4ece0a5d26e) - **docs:** fix orphaned section comments in `stats/base/dists/geometric` READMEs _(by Philipp Burckhardt)_
 -   [`4fb4995`](https://github.com/stdlib-js/stdlib/commit/4fb49958095bee6d0cfee8b5d63fcfdf94f87e6e) - **docs:** fix missing and malformed section tags in README files _(by Philipp Burckhardt)_
@@ -27,9 +40,10 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Blessed Oigbochie
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 -   Vishal..
