@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-06-17)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`dbe4c82`](https://github.com/stdlib-js/stdlib/commit/dbe4c820ea98330253b4054a5bc9b04b2293415b) - **docs:** propagate fixes to sibling packages [(#12677)](https://github.com/stdlib-js/stdlib/pull/12677) _(by Philipp Burckhardt, Athan Reines)_
 -   [`18f1915`](https://github.com/stdlib-js/stdlib/commit/18f191560f9322727ee126619e9e083187b64821) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4f32811`](https://github.com/stdlib-js/stdlib/commit/4f3281135aa10fd6a204e9f7d1776e16615bafe1) - **chore:** address commit comments for commit `bfbe62b` [(#10998)](https://github.com/stdlib-js/stdlib/pull/10998) _(by Blessed Oigbochie)_
 -   [`bfbe62b`](https://github.com/stdlib-js/stdlib/commit/bfbe62b4e300e4019c4601f755b0bc8565f184dc) - **test:** add tests to `stats/base/dists/geometric/mgf` [(#10483)](https://github.com/stdlib-js/stdlib/pull/10483) _(by Vishal..)_
